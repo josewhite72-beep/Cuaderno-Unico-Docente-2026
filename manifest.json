@@ -1,7 +1,7 @@
 {
   "name": "Cuaderno Único Docente 2026",
   "short_name": "Cuaderno Único",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
